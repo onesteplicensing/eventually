@@ -1,3 +1,5 @@
+---
+---
 /*
 	Eventually by HTML5 UP
 	html5up.net | @ajlkn
@@ -39,9 +41,16 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+							'{{ site.img_url }}': 'center',
+							'https://source.unsplash.com/qJfznuTMAYA/1920x900': 'center',
+							'https://source.unsplash.com/Iv7Jzk6gNIw/1920x900': 'center',
+							'https://source.unsplash.com/f2DL8oI-7N8/1920x900': 'center'
+
+							/*
 							'assets/images/bg01.jpg': 'center',
 							'assets/images/bg02.jpg': 'center',
 							'assets/images/bg03.jpg': 'center'
+							*/
 						},
 
 					// Delay.
