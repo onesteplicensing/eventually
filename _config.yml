@@ -3,7 +3,7 @@ title: One Step Licensing
 email: admin@onesteplicensing.com
 logo_url: assets/images/logo_grey_s.png
 description: making licensed products universally accessible from the most reliable platform
-baseurl: "/eventually" # the subpath of your site, e.g. /blog
+baseurl: "" #"/eventually" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 #backgroundImage
